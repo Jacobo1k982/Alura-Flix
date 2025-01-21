@@ -3,5 +3,5 @@
 
 ### ¡Bienvenido al proyecto base de AluraFlix! Pasos principales:
 
-#### Visita la página del Desafío [¡Haciendo clic aquí!](https://www.aluracursos.com/challenges/oracle-one-front-end/aluraflix)
+#### Visita la página del Desafío [¡Haciendo clic aquí!](https://github.com/Jacobo1k982/Alura-Flix.git)
 
